@@ -1,5 +1,4 @@
 # Author : Gajesh Ladhar
-# WhatsApp : +918302019026
 # LinkedIn :  https://www.linkedin.com/in/gajesh-ladhar-027a4870/
 
 
@@ -91,7 +90,7 @@ for i,tweet in enumerate(tweets):
 
 np.sum(embeddings_tweets[0]-embeddings_tweets[10])
 
-# Locally Sensitive Hashing...
+# Locality Sensitive Hashing...
 N_Planes=15
 N_Universe=10
 
